@@ -6,5 +6,9 @@ public static void main(String[] args) {
 }
 public void login() {
 	System.out.println("My Login Page");
+	System.out.println("try to merge");
+}
+public void search() {
+System.out.println("this is new");
 }
 }
